@@ -10,12 +10,18 @@ const dataBase = {
   ],
   party: [
     { name: "Garmi", movie: "Street Dancer 3" },
-    { name: "Apna Time Ayega", movie: "Gully Boy" }
+    { name: "Apna Time Ayega", movie: "Gully Boy" },
+    { name: "Just Chill", movie: "Maine Pyaar Kyun Kiya" }
   ],
   romantic: [
     { name: "Raatan Lambiyan", movie: "Shershah" },
     { name: "Mehbooba", movie: "KGF Chapter 2" },
     { name: "Doobey", movie: "Gehraiyaan" }
+  ],
+  breakup: [
+    { name: "Kahin Toh", movie: "Jaane Tu ya Jane na" },
+    { name: "Agar tum saath ho", movie: "Tamasha" },
+    { name: "Tujhe Bhula diya", movie: "Anjana anjani" }
   ]
 };
 
